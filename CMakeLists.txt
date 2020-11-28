@@ -176,7 +176,6 @@ set(STUMPLESS_SOURCES
   ${PROJECT_SOURCE_DIR}/src/validate.c
 )
 
-
 # wrapture support
 set(WRAPTURE_SPECS
   # template files must be first
